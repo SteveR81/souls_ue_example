@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Stevil/Documents/Unreal Engine/Projects/souls_ue_example/Content/Characters/Animations/Combat/BigAttack.uasset",
+				"C:/Users/Stevil/Documents/Unreal Engine/Projects/souls_ue_example/Content/Characters/Animations/Combat/HitReact.uasset",
+				"C:/Users/Stevil/Documents/Unreal Engine/Projects/souls_ue_example/Content/Characters/Animations/Combat/Hitreact_Fwd.uasset",
+				"C:/Users/Stevil/Documents/Unreal Engine/Projects/souls_ue_example/Content/Characters/Animations/Combat/SwordAttackCombo.uasset",
+				"C:/Users/Stevil/Documents/Unreal Engine/Projects/souls_ue_example/Content/Characters/Animations/Movement/M_Neutral_Run_Loop_B.uasset",
+				"C:/Users/Stevil/Documents/Unreal Engine/Projects/souls_ue_example/Content/Characters/Animations/Movement/M_Neutral_Run_Loop_BL.uasset",
+				"C:/Users/Stevil/Documents/Unreal Engine/Projects/souls_ue_example/Content/Characters/Animations/Movement/M_Neutral_Run_Loop_BR.uasset",
+				"C:/Users/Stevil/Documents/Unreal Engine/Projects/souls_ue_example/Content/Characters/Animations/Movement/M_Neutral_Run_Loop_F.uasset",
+				"C:/Users/Stevil/Documents/Unreal Engine/Projects/souls_ue_example/Content/Characters/Animations/Movement/M_Neutral_Run_Loop_FL.uasset",
+				"C:/Users/Stevil/Documents/Unreal Engine/Projects/souls_ue_example/Content/Characters/Animations/Movement/M_Neutral_Run_Loop_FR.uasset",
+				"C:/Users/Stevil/Documents/Unreal Engine/Projects/souls_ue_example/Content/Characters/Animations/Movement/M_Neutral_Run_Loop_LL.uasset",
+				"C:/Users/Stevil/Documents/Unreal Engine/Projects/souls_ue_example/Content/Characters/Animations/Movement/M_Neutral_Run_Loop_LR.uasset",
+				"C:/Users/Stevil/Documents/Unreal Engine/Projects/souls_ue_example/Content/Characters/Animations/Movement/M_Neutral_Run_Loop_RL.uasset",
+				"C:/Users/Stevil/Documents/Unreal Engine/Projects/souls_ue_example/Content/Characters/Animations/Movement/M_Neutral_Stand_Idle_Loop.uasset"
+			]
+		}
+	]
+}
